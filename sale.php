@@ -11,6 +11,7 @@
       <div class="portfolio">
         <ul class="filter">
           <li><a class="active" href="#" data-filter="*">All</a></li>
+          <li><a href="#" data-filter=".1964">1964</a></li>
           <li><a href="#" data-filter=".1965">1965</a></li>
           <li><a href="#" data-filter=".1966">1966</a></li>
           <li><a href="#" data-filter=".1967">1967</a></li>
@@ -25,14 +26,14 @@
           <li class="item 1966">
             <figure class="icon-overlay medium icn-link"> <a href="bluemonday.php" class="fancybox-media" data-rel="portfolio"><img src="style/images/blueMonday_440x295.jpg" alt="Blue 1966 Mustang Coupe" /></a></figure>
             <div class="image-caption">
-              <h3><a href="bluemonday.php">Blue Monday - $17,950</a></h3>
+              <h3><a href="bluemonday.php">Blue Monday - $13,950</a></h3>
               <span class="meta">1966 Coupe</span> </div>
           </li>
           <!-- /.item -->
           <li class="item 1966">
             <figure class="icon-overlay medium icn-link"> <a href="whitelines.php" class="fancybox-media" data-rel="portfolio"><img src="style/images/whiteLines_440x295.jpg" alt="White 1966 Mustang Coupe" /></a></figure>
             <div class="image-caption">
-              <h3><a href="whitelines.php">White Lines - $19,950</a></h3>
+              <h3><a href="whitelines.php">White Lines - $14,950</a></h3>
               <span class="meta">1966 Coupe</span> </div>
           </li>
           <!-- /.item -->
@@ -58,6 +59,14 @@
             <div class="image-caption">
               <h3><a href="ogm.php">Fabulous Thunderbird - $14,950</a></h3>
               <span class="meta">1965 Thunderbird</span> </div>
+          </li>
+          <!-- /.item -->
+          <!-- /.item -->
+          <li class="item 1964">
+            <figure class="icon-overlay medium icn-link"> <a href="bhs.php" class="fancybox-media" data-rel="portfolio"><img src="style/images/bhs_440x295.jpg" alt="1964 Mercury Comet" /></a></figure>
+            <div class="image-caption">
+              <h3><a href="ogm.php">Black Hole Sun - $2,950</a></h3>
+              <span class="meta">1964 Mercury Comet</span> </div>
           </li>
           <!-- /.item -->
 

@@ -35,7 +35,7 @@
             <li><span>Year:</span> 1966</li>
             <li><span>Code name:</span> White Lines</li>
             <li><span>Model:</span> Coupe</li>
-            <li><span>Price:</span> $19,950</li>
+            <li><span>Price:</span> $14,950</li>
             
           </ul>
         </div>

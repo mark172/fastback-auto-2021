@@ -31,7 +31,7 @@
             <li><span>Year:</span> 1966</li>
             <li><span>Code name:</span> Blue Monday</li>
             <li><span>Model:</span> Coupe</li>
-            <li><span>Price:</span> $17,950</li>
+            <li><span>Price:</span> $13,950</li>
           </ul>
         </div>
         <!-- /.col-sm-4 --> 
