@@ -30,7 +30,7 @@
           <li class="item 1967">
             <figure class="icon-overlay medium icn-link"> <a href="darkside.php" class="fancybox-media" data-rel="portfolio"><img src="style/images/darkSide_440x295.jpg" alt="Yellow 1970 Mercury Cyclone 429CJ" /></a></figure>
             <div class="image-caption">
-              <h3><a href="yellowsub.php">Dark Side of the Rainbow</a></h3>
+              <h3><a href="darkside.php">Dark Side of the Rainbow</a></h3>
               <span class="meta">1967 Fastback</span> </div>
           </li>
   

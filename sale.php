@@ -65,7 +65,7 @@
           <li class="item 1964">
             <figure class="icon-overlay medium icn-link"> <a href="bhs.php" class="fancybox-media" data-rel="portfolio"><img src="style/images/bhs_440x295.jpg" alt="1964 Mercury Comet" /></a></figure>
             <div class="image-caption">
-              <h3><a href="ogm.php">Black Hole Sun - $2,950</a></h3>
+              <h3><a href="bhs.php">Black Hole Sun - $2,950</a></h3>
               <span class="meta">1964 Mercury Comet</span> </div>
           </li>
           <!-- /.item -->
