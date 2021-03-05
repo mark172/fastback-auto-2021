@@ -30,9 +30,9 @@
       <div class="row">
         <div class="col-sm-8">
           <h1 class="post-title">Feel Free to Drop Us a Line</h1>
-          <p>Give us a ring or send us a message with your contact information and we'll talk about the cars we have in inventory.</p>
+          <p>Give us a ring or send us an <a href="mailto:info@fastback.com">email</a> with your contact information and we'll talk about the cars we have in inventory.</p>
           <div class="divide20"></div>
-          <div class="form-container">
+          <!-- <div class="form-container">
             <div class="response alert alert-success"></div>
             <form class="forms" action="contact/form-handler.php" method="post">
               <fieldset>
@@ -66,7 +66,7 @@
                 <input type="hidden" name="v_email" id="v-email" value="Enter a valid email" />
               </fieldset>
             </form>
-          </div>
+          </div> -->
            <!--/.form-container -->
         </div>
         <!-- /.span8 -->
