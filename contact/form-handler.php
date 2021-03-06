@@ -2,7 +2,7 @@
 include('SMTPClass.php');
 
 $use_smtp = '0';
-$emailto = 'mark172@me.com,info@fastbackauto.com';
+$emailto = ;
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
